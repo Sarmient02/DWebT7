@@ -1,5 +1,5 @@
 # DWebT7
-Taller 7 - SPA - Javier Sarmiento 2192511
+Taller 7 - SPA Backend - Javier Sarmiento 2192511
 
 ![1](https://user-images.githubusercontent.com/106720679/189575335-32f0b0ea-4610-4ca2-8bc7-547df82f6901.png)
 
