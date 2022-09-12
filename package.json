@@ -1,0 +1,24 @@
+{
+  "name": "dwebt7",
+  "version": "1.0.0",
+  "description": "Taller 7 - SPA - Javier Sarmiento 2192511",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sarmient02/DWebT7.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sarmient02/DWebT7/issues"
+  },
+  "homepage": "https://github.com/Sarmient02/DWebT7#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "pg": "^8.8.0"
+  }
+}
